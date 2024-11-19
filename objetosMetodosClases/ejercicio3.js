@@ -9,4 +9,4 @@ const book = {
     year: 1925
   }
   
-  console.log(book)
+  console.log(book);

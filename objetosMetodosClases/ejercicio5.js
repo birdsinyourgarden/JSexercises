@@ -15,6 +15,8 @@ class Rectangle {
     }
 }
 
+export default Rectangle;
+
 const rectangle = new Rectangle(5, 10);
 
 console.log('Area: ', rectangle.calculateArea);
